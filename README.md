@@ -40,5 +40,5 @@ Usage:
 4. Follow the prompts to login and perform banking transactions.
 
 Dependencies:
-Java Development Kit (JDK)
-Git (optional, for cloning the repository)
+    Java Development Kit (JDK)
+    Git (optional, for cloning the repository)
