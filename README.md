@@ -25,18 +25,16 @@ The OptionMenu class extends the Account class and implements the main functiona
 Input/output operations are handled using Scanner for user input and formatted output using DecimalFormat for displaying currency values.
 
 Usage:
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
-bash
-Copy code
 git clone <repository-url>
-Compile the Java files:
 
-Copy code
+2. Compile the Java files:
+
 javac Account.java OptionMenu.java
-Run the main program:
 
-Copy code
+3.Run the main program:
+
 java OptionMenu
 Follow the prompts to login and perform banking transactions.
 
