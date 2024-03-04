@@ -27,15 +27,15 @@ Input/output operations are handled using Scanner for user input and formatted o
 Usage:
 1. Clone the repository to your local machine:
 
-  git clone <repository-url>
+    git clone <repository-url>
 
 2. Compile the Java files:
 
-  javac Account.java OptionMenu.java
+    javac Account.java OptionMenu.java
 
 3. Run the main program:
 
-  java OptionMenu
+    java OptionMenu
 
 4. Follow the prompts to login and perform banking transactions.
 
